@@ -1,0 +1,8 @@
+<templateSet group="R">
+  <template name="faz" value="#FAZER" description="#FAZER" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="R" value="true" />
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

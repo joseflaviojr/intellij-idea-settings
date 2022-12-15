@@ -1,0 +1,40 @@
+<keymap version="1" name="macOS" parent="Sublime Text (Mac OS X)">
+  <action id="CollapseRegion" />
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta alt underscore" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="ExpandRegion" />
+  <action id="HideActiveWindow" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift escape" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="QuickList.Main">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="ToggleRenderedDocPresentationForAll">
+    <keyboard-shortcut first-keystroke="ctrl meta slash" />
+  </action>
+  <action id="Vcs.Push" />
+  <action id="copilot.cycleNextInlays">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
+  <action id="copilot.cyclePrevInlays">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
+  <action id="copilot.requestCompletions">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
+</keymap>

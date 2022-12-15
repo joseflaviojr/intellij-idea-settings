@@ -1,0 +1,17 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="810" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
+    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
+</application>

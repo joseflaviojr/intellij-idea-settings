@@ -1,0 +1,5 @@
+Docker
+R4Intellij
+com.samdark.intellij-visual-studio-code-dark-plus
+net.ashald.envfile
+org.sonarlint.idea
