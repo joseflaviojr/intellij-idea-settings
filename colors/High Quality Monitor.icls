@@ -3,11 +3,12 @@
     <property name="created">2022-12-14T03:00:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-12-14T03:00:00</property>
+    <property name="modified">2022-12-30T21:30:00</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
     <option name="CARET_ROW_COLOR" value="262626" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOC_COMMENT_GUIDE" value="797d7c" />
     <option name="DOC_COMMENT_LINK" value="99a1a0" />
     <option name="GUTTER_BACKGROUND" value="1d1d1d" />
@@ -43,33 +44,35 @@
     </option>
     <option name="BASH.BACKQUOTE">
       <value>
-        <option name="FOREGROUND" value="cd905b" />
+        <option name="FOREGROUND" value="cb7a2f" />
       </value>
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FOREGROUND" value="dbdbaa" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="FOREGROUND" value="cb7a2f" />
+        <option name="BACKGROUND" value="1f1f1f" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="BASH.HERE_DOC_END">
       <value>
-        <option name="FOREGROUND" value="c586c0" />
+        <option name="FOREGROUND" value="bb0bb2" />
       </value>
     </option>
     <option name="BASH.HERE_DOC_START">
       <value>
-        <option name="FOREGROUND" value="c586c0" />
+        <option name="FOREGROUND" value="bb0bb2" />
       </value>
     </option>
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
-    <option name="BASH.VAR_DEF">
+    <option name="BASH.SUBSHELL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="d3d3c8" />
-      </value>
-    </option>
-    <option name="BASH.VAR_USE">
-      <value>
-        <option name="FOREGROUND" value="9cdcfe" />
+        <option name="FOREGROUND" value="499cd5" />
       </value>
     </option>
     <option name="CMD_EXPRESSION">
@@ -600,6 +603,11 @@
         <option name="FOREGROUND" value="9cdcfe" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -624,72 +632,99 @@
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="MARKDOWN_AUTO_LINK">
       <value>
-        <option name="EFFECT_COLOR" value="d4d4d4" />
+        <option name="FOREGROUND" value="499cd5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
-        <option name="FOREGROUND" value="699856" />
+        <option name="FOREGROUND" value="39c8b0" />
       </value>
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="699856" />
+        <option name="FOREGROUND" value="39c8b0" />
       </value>
     </option>
     <option name="MARKDOWN_BOLD">
       <value>
-        <option name="FOREGROUND" value="499cd5" />
+        <option name="FOREGROUND" value="39c8b0" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BOLD_MARKER">
+      <value>
+        <option name="FOREGROUND" value="4e4e4e" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_BLOCK">
       <value>
-        <option name="FOREGROUND" value="cd905b" />
+        <option name="FOREGROUND" value="499cd5" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_FENCE">
       <value>
-        <option name="FOREGROUND" value="cd905b" />
+        <option name="FOREGROUND" value="499cd5" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_SPAN">
       <value>
-        <option name="FOREGROUND" value="cd905b" />
+        <option name="FOREGROUND" value="499cd5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN_MARKER">
+      <value>
+        <option name="FOREGROUND" value="499cd5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_EXPLICIT_LINK">
+      <value>
+        <option name="FOREGROUND" value="499cd5" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
       <value>
-        <option name="FOREGROUND" value="4a9dd4" />
+        <option name="FOREGROUND" value="cb7a2f" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_2">
       <value>
-        <option name="FOREGROUND" value="499cd5" />
+        <option name="FOREGROUND" value="cb7a2f" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_3">
       <value>
-        <option name="FOREGROUND" value="499cd5" />
+        <option name="FOREGROUND" value="cb7a2f" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_4">
       <value>
-        <option name="FOREGROUND" value="499cd5" />
+        <option name="FOREGROUND" value="cb7a2f" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_5">
       <value>
-        <option name="FOREGROUND" value="4a9dd4" />
+        <option name="FOREGROUND" value="cb7a2f" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_6">
       <value>
-        <option name="FOREGROUND" value="499cd5" />
+        <option name="FOREGROUND" value="cb7a2f" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_MARKER">
+      <value>
+        <option name="FOREGROUND" value="cb7a2f" />
       </value>
     </option>
     <option name="MARKDOWN_HRULE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="bb0bb2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_IMAGE">
+      <value>
+        <option name="FOREGROUND" value="499cd5" />
+      </value>
     </option>
     <option name="MARKDOWN_INLINE_HTML">
       <value>
@@ -699,44 +734,66 @@
     </option>
     <option name="MARKDOWN_ITALIC">
       <value>
+        <option name="FOREGROUND" value="39c8b0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_ITALIC_MARKER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="4e4e4e" />
+      </value>
     </option>
     <option name="MARKDOWN_LINK_DESTINATION">
       <value>
-        <option name="EFFECT_COLOR" value="d4d4d4" />
+        <option name="FOREGROUND" value="4e4e4e" />
+        <option name="EFFECT_COLOR" value="4e4e4e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_TEXT">
       <value>
-        <option name="FOREGROUND" value="ce9178" />
+        <option name="FOREGROUND" value="499cd5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_TITLE">
+      <value />
+    </option>
+    <option name="MARKDOWN_LIST_ITEM">
       <value>
-        <option name="FOREGROUND" value="cd905b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LIST_MARKER">
+      <value>
+        <option name="FOREGROUND" value="499cd5" />
       </value>
     </option>
     <option name="MARKDOWN_ORDERED_LIST">
+      <value />
+    </option>
+    <option name="MARKDOWN_STRIKE_THROUGH">
       <value>
-        <option name="FOREGROUND" value="499cd5" />
+        <option name="FOREGROUND" value="39c8b0" />
+        <option name="EFFECT_COLOR" value="797d7c" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="MARKDOWN_UNORDERED_LIST">
-      <value>
-        <option name="FOREGROUND" value="499cd5" />
-      </value>
+      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="323232" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="878787" />
+      </value>
+    </option>
+    <option name="MATCHED_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="30698e" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="4e4e4e" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -836,37 +893,33 @@
     <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
+      </value>
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="39c8b0" />
       </value>
     </option>
-    <option name="PY.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="39c8b0" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="PY.KEYWORD_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="94dbfd" />
-      </value>
-    </option>
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FOREGROUND" value="dbdbaa" />
       </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
-        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FOREGROUND" value="dbdbaa" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="569cd5" />
+        <option name="FOREGROUND" value="499cd5" />
       </value>
     </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="d16969" />
@@ -876,6 +929,7 @@
     <option name="R_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="R_NAMED_ARGUMENT">
       <value>
+        <option name="FOREGROUND" value="4e4e4e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -960,34 +1014,53 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="9cdcfe" />
+        <option name="FOREGROUND" value="6d9cbe" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="d67171" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="30698e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="d4d4d4" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="FOREGROUND" value="30698e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="d4d4d4" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="FOREGROUND" value="30698e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
-    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="30698e" />
+      </value>
+    </option>
     <option name="XPATH.BRACKET">
       <value />
     </option>
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XSLT_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
+      </value>
+    </option>
   </attributes>
 </scheme>
