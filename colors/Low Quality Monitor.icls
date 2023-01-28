@@ -535,7 +535,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="6d9cbe" />
+        <option name="FOREGROUND" value="2276b0" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
@@ -546,13 +546,13 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="30698e" />
+        <option name="FOREGROUND" value="797d7c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="30698e" />
+        <option name="FOREGROUND" value="2276b0" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -791,8 +791,7 @@
     </option>
     <option name="MATCHED_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="30698e" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="2276b0" />
         <option name="EFFECT_COLOR" value="4e4e4e" />
       </value>
     </option>
@@ -1019,7 +1018,7 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="7dacce" />
+        <option name="FOREGROUND" value="2276b0" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
@@ -1029,26 +1028,26 @@
     </option>
     <option name="XML_NS_PREFIX">
       <value>
-        <option name="FOREGROUND" value="30698e" />
+        <option name="FOREGROUND" value="2276b0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="30698e" />
+        <option name="FOREGROUND" value="2276b0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="30698e" />
+        <option name="FOREGROUND" value="797d7c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="30698e" />
+        <option name="FOREGROUND" value="2276b0" />
       </value>
     </option>
     <option name="XPATH.BRACKET">
