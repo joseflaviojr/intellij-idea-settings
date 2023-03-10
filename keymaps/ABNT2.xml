@@ -1,4 +1,8 @@
 <keymap version="1" name="ABNT2" parent="Sublime Text">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt subtract" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />

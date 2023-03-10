@@ -11,6 +11,7 @@
   <action id="ExtractMethod" />
   <action id="OptimizeImports" />
   <action id="ReformatCode" />
+  <action id="ShowIntentionActions" />
   <action id="QuickList.$Separator$" />
   <action id="CommentByLineComment" />
   <action id="MoveLineDown" />
