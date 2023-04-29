@@ -1,6 +1,7 @@
+org.rust.lang
+com.samdark.intellij-visual-studio-code-dark-plus
 Docker
 PythonCore
 R4Intellij
-com.samdark.intellij-visual-studio-code-dark-plus
 net.ashald.envfile
 org.sonarlint.idea
