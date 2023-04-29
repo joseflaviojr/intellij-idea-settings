@@ -1,3 +1,4 @@
+org.intellij.plugins.hcl
 org.rust.lang
 com.samdark.intellij-visual-studio-code-dark-plus
 Docker
