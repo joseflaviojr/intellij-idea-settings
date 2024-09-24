@@ -1,7 +1,5 @@
 <templateSet group="AndroidComments">
-  <template name="todo" value="//TODO" description="//TODO" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context />
-  </template>
+  <template name="todo" value="//TODO" description="//TODO" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
   <template name="faz" value="//FAZER" description="//FAZER" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="COMPLETION" value="true" />

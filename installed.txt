@@ -1,8 +1,7 @@
+com.intellij.notebooks.core
 org.intellij.plugins.hcl
-org.rust.lang
-com.samdark.intellij-visual-studio-code-dark-plus
-Docker
-PythonCore
-R4Intellij
+Lombook Plugin
 net.ashald.envfile
+R4Intellij
+Docker
 org.sonarlint.idea
