@@ -1,7 +1,10 @@
-com.intellij.notebooks.core
-org.intellij.plugins.hcl
-Lombook Plugin
-net.ashald.envfile
-R4Intellij
 Docker
+Lombook Plugin
+PlantUML integration
+R4Intellij
+com.intellij.notebooks.core
+dev.jbang.intellij.JBangPlugin
+net.ashald.envfile
+org.intellij.plugins.hcl
 org.sonarlint.idea
+plantuml-parser
