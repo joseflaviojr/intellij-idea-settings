@@ -22,11 +22,14 @@
     <option name="enabled" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
     <option name="providerIdToEnabled">
       <map>
+        <entry key="groovy.implicit.null.argument" value="false" />
+        <entry key="groovy.lambda.parameter.inlay.provider" value="false" />
         <entry key="java.method.chains" value="false" />
       </map>
     </option>
@@ -60,5 +63,13 @@
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\bTODO\b.*" />
     <pattern case-sensitive="true" pattern="\bFAZER\b.*" />
+    <pattern icon="important" case-sensitive="true" pattern="\bTODOX\b.*" />
+    <filter name="Urgente">
+      <pattern index="2" />
+    </filter>
+    <filter name="Comum">
+      <pattern index="1" />
+      <pattern index="0" />
+    </filter>
   </component>
 </application>

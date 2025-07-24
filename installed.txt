@@ -1,10 +1,10 @@
 Docker
 Lombook Plugin
 PlantUML integration
+PythonCore
 R4Intellij
 com.intellij.notebooks.core
 dev.jbang.intellij.JBangPlugin
 net.ashald.envfile
 org.intellij.plugins.hcl
-org.sonarlint.idea
 plantuml-parser

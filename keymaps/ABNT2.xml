@@ -1,4 +1,5 @@
 <keymap version="1" name="ABNT2" parent="Sublime Text">
+  <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt subtract" />
     <keyboard-shortcut first-keystroke="alt minus" />
@@ -19,6 +20,9 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
+  <action id="IntentionActionAsAction_com.intellij.codeInsight.intention.impl.AddSingleMemberStaticImportAction">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
@@ -31,6 +35,7 @@
   <action id="QuickList.Main">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="RMarkdownNewChunk" />
   <action id="ToggleRenderedDocPresentationForAll">
     <keyboard-shortcut first-keystroke="ctrl altGraph q" />
   </action>

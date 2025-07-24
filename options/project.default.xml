@@ -31,9 +31,9 @@
         </entry>
       </component>
       <component name="ProjectViewState">
+        <option name="abbreviatePackageNames" value="true" />
         <option name="compactDirectories" value="true" />
         <option name="flattenModules" value="true" />
-        <option name="hideEmptyMiddlePackages" value="true" />
       </component>
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
