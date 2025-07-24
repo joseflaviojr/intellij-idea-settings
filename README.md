@@ -1,5 +1,5 @@
 # IntelliJ IDEA Settings
 
-IntelliJ IDEA settings focusing on style, colors and usability of Java and R languages.
+IntelliJ IDEA settings focusing on style, colors and usability of Java, R and Python languages.
 
-IDE base version: 2023.1 (Community Edition)
+IDE base version: 2024.2.2 (Community Edition)
