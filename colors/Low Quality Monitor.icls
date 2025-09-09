@@ -931,6 +931,11 @@
       </value>
     </option>
     <option name="R_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="R_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="11c580" />
+      </value>
+    </option>
     <option name="R_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="4e4e4e" />
@@ -1040,7 +1045,7 @@
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="797d7c" />
+        <option name="FOREGROUND" value="2276b0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1053,8 +1058,8 @@
     <option name="XPATH.BRACKET">
       <value />
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="XSLT_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="11c580" />
@@ -1071,6 +1076,5 @@
         <option name="FOREGROUND" value="dcdc23" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
   </attributes>
 </scheme>

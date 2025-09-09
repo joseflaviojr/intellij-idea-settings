@@ -3,6 +3,7 @@ Lombook Plugin
 PlantUML integration
 PythonCore
 R4Intellij
+com.intellij.mermaid
 com.intellij.notebooks.core
 dev.jbang.intellij.JBangPlugin
 net.ashald.envfile
