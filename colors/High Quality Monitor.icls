@@ -893,7 +893,12 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="39c8b0" />
+        <option name="FOREGROUND" value="499cd5" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="4e4e4e" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
@@ -909,6 +914,11 @@
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="499cd5" />
+      </value>
+    </option>
+    <option name="PY.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
       </value>
     </option>
     <option name="REGEXP.CHAR_CLASS">
